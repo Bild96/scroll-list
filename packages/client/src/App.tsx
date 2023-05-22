@@ -29,8 +29,8 @@ export const App = () => {
     <Container>
       <AppContainer>
         <HeaderDiv>
-          <Title>MUD x React Workshop</Title>
-          <Subtitle>Creating a todo list using MUD</Subtitle>
+          <Title>📜 Scroll TODO-LIST</Title>
+          <Subtitle>✍️ Create a todo list using MUD</Subtitle>
         </HeaderDiv>
 
         <Card>
@@ -45,7 +45,8 @@ export const App = () => {
         </Card>
 
         <Footer>
-          <TextLink href="https://v2.mud.dev">MUD docs</TextLink>
+          <TextLink href="https://v2.mud.dev">MUD docs 📑</TextLink>
+          
         </Footer>
       </AppContainer>
     </Container>
